@@ -90,8 +90,51 @@ Fourth, know the **members of the committee** and what they look like. Take spec
 
 Fifth, if you're preparing objective testimony, research the **facts behind your case**. You probably already know why you support your side of the bill, but an objective approach requires reliably-sourced analysis and data. If you're attending a high-profile hearing, try to dig up unique arguments that you don't think anyone will say&mdash;after hours of hearing the same arguments over and over again, everyone will appreciate a change of pace.
 
-Last-minute checklist
--
+Some of the first few items might be useful to have printed during the hearing; you can print them when you print your written testimony. Note that bills and analyses in PDF form print on **legal-size paper**.
+
+### Written testimony
+
+Written testimony should describe the totality of your position on the issue. For objective testimony, think up any arguments you have to support your side of the bill, and include them separated into sections. For narrative testimony, simply write up your story.
+
+Written testimony should be prepared as a formal paper. Format your document well, in English sentences. Cite sources if you need to with footnotes or a bibliography. There's no page limit, except for how much you can afford to print.
+
+Make sure you print the **right number of copies**, which will be listed in the hearing notice. You'll probably want to go to a print shop. Save paper by printing double-sided, and staple each copy of your testimony.
+
+I've uploaded my SB 4 written testimony as `sample-testimony.pdf` in this repository.
+
+### Oral testimony
+
+Oral testimony is incredibly nerve-wracking. You're seated at a small table, facing some of the most powerful people in the state, given three minutes or less to make your point. I've been speaking for over five years, and I was still shaking the first time I testified. Nonetheless, if you channel that energy, you can immensely strengthen your case with oral testimony.
+
+A common practice is to simply read words from a sheet. This is a valid approach, especially if you're an inexperienced speaker. But the best testimony is **extemporaneous**; with only a few short notes in front of you, you just talk&mdash;exactly as if you were having a one-sided conversation with the committee. Testimony read from a sheet often ends up monotonous, boring, and stilted; extemporaneous testimony appears confident, authentic, and trustworthy. If you do read from a sheet, at least read in a conversational tone and avoid any big words.
+
+Objective oral testimony should simply **summarize** your position. A detailed exposition is what your written testimony is for. Give the legislators enough information to know what your views are, but defer most of the specifics to the paper. Also, you'll need to **select your arguments**; you'll only be able to present two at most, so pick the two that (a) are most powerful and (b) haven't already been said in the hearing, or need additional support based on the arguments that others have made.
+
+Organize your testimony in three parts:
+1. The **introduction** should include your name, any organization you represent, and your position on the bill. You don't need to preview your arguments, unlike in competitive speech.
+2. The **body** is where you make your points or tell your story.
+3. The **conclusion** is a call to action, which summarizes your testimony and restates your position.
+
+Finally, in large hearings, be flexible. Someone will say one of your arguments, or make an argument of their own that you just have to refute. Don't be caught up in a plan for which arguments you present or how you frame your story. I had three specific plans written on paper for which arguments I would select, but by the time I got to speak I had scrapped them all and formed a new one in my head.
+
+My oral testimony on SB 4 is at around 4:38:30 in [this video](http://tlcsenate.granicus.com/MediaPlayer.php?clip_id=11651). As you can tell, this was a long hearing.
+
+### Pre-registering
+
+If you don't have an account with Capitol Witness Registration, creating one now will save time at the Capitol. Create an account at the [registration system](https://www.mytxlegis.legis.state.tx.us/hwrspublic/default.aspx) and enter your information. (The Texas House maintains the system, but it works for both House and Senate hearings.) At the Capitol, you can use this account to pre-fill your contact information into the on-site registration forum, saving you time.
+
+### What to bring
+
+- Your **written testimony**. Make sure you have the **number of copies** specified in the hearing notice. Double-check the notice to make sure it hasn't changed.You can also bring **extra copies** in case one gets damaged, or to give to the press and anyone you meet. Ten extra is more than enough.
+- Any **written reference materials** you may want for your oral testimony.
+- **Pen and paper** to take notes during the hearing (so you can adjust your own arguments), or for networking purposes.
+- If you'd like, **business cards** to give to allies you meet at the hearing, for networking purposes.
+- Appropriate **attire**. The baseline is a nice top (button-up for men) and dark, non-distressed, non-ripped jeans. Some people wear a conservative suit (black, gray, or blue, with black shoes and, for men, a white shirt and subdued tie). I personally wear a suit and tie to all legislative hearings, and recommend that you do the same if possible, especially at smaller hearings; however, suits are not required, as long as your attire shows respect for the committee.
+
+### What not to bring
+
+- **Weapons**. State troopers will confiscate them. (I'm not sure if this applies to CHL holders.)
+- **Signs or placards** are not permitted during legislative hearings.
 
 The day of the hearing
 -
