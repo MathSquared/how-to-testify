@@ -52,6 +52,44 @@ Second, on controversial bills, **the media** can be a great way to follow a bil
 Preparing your testimony
 -
 
+Once you've found out when the hearing is happening, you need to prepare to testify before the committee.
+
+### Planning your approach
+
+As you put together your testimony, you need to decide two crucial items: your position on the bill and the format of your testimony.
+
+All testimony takes one of three **positions**: for, against, or on a bill. The first two are obvious; the first supports the bill, and the second opposes it. The third is if you wish to offer information but remain neutral on the bill. Make sure you know which side you're on; for instance, since SB 4 was a bill to ban sanctuary cities, a supporter of sanctuary cities would testify against SB 4.
+
+Testimony may be **formatted** in one of several ways: oral, written, or both. Oral testimony is a short speech given to the members of the committee, possibly followed by questioning from the members. Written testimony is a paper packet given to the legislators. If you don't want to or don't have time to speak, you can submit written testimony only; if you don't have time to write up your remarks, or a printer, you can opt for a solely oral approach. Optimally, you should do both. Keep in mind that some legislators won't be at the hearing, so not everyone will hear your oral testimony, but everyone can read the written testimony during or after the hearing.
+
+### Types of testimony
+
+There are two basic approaches you can take to argue your position on a bill.
+
+**Objective** testimony relies on logic, facts, and figures. An objective witness cites sources, provides logically-organized points, and uses plenty of statistics. Anyone who's done competitive debate, extemporaneous speaking, or (especially) congressional debate will feel right at home with this approach. You can fit about two separate, complete arguments into a two- to three-minute period.
+
+By contrast, **narrative** testimony tells a story. A narrative witness attempts to sway the committee with emotion, telling their own story or that of someone they know, and aims to show the legislators the human impact of their proposal. Narrative testimony is excellent if you're personally affected by the bill, since you're then the best suited to give your own unique perspective. Focus on telling one story; try not to tell multiple narratives, since you'll usually run out of time in the middle of one of them.
+
+There's disagreement on which of these is most effective. My personal opinion is that both are important; the effect of hard numbers and figures can be amplified with stories that humanize some of those figures. A solid balance of both approaches builds a cogent case for your side.
+
+At hearings with many witnesses, there will be a combination of objective and narrative witnesses. They will create that balance, so you really only need to pick one approach. For less controversial bills, where you have longer to testify, you can combine the approaches; either start with a narrative and then show its broader impact with numbers, or start with data and then personalize it at the end.
+
+### Conducting research
+
+Now's the time to gather information that you'll need in your testimony, and to back up your position for questioning. Even if you're taking a purely narrative approach, this information may influence how you present your story, or may be important to respond to questions.
+
+First, **read the bill**. This sounds terrifying, but most bills are fairly short. It also is important; if a legislator asks you "Have you read the bill?", your answer should never be "no". The Texas Legislative Council has an excellent [resource](http://www.tlc.state.tx.us/docs/legref/readingabill.pdf) on reading bills. Some things to note:
+- Watch for any **amendments** to the bill, and read them. These are usually listed on the TLO page, but not always. Check TLO and major Texas news sources frequently in the run-up to the hearing.
+- Pay attention to the **nuances** of the bill. Most bills do one thing primarily, but also have other provisions. For instance, SB 4, while it bans sanctuary cities, also bans state officers from making a traffic stop solely because of presumed immigration status (in most cases). Legislators use these parts of a bill to counter common arguments against it, and make their own arguments in favor of the bill. You should know what's in the bill so that you can discuss any aspect of it, and beat back any arguments based on its more arcane portions.
+
+Second, the TLO page should contain a non-partisan **analysis** of the bill. This usually restates the bill's legalese in slightly-beautified but nearly-identical legalese, but it's still not a bad idea to look it over.
+
+Third, many bills come with **fiscal notes** that outline any costs to the state. These are usually posted on TLO right before a committee hearing. The Texas Legislature absolutely hates spending money, so make sure you consider the fiscal note in your arguments.
+
+Fourth, know the **members of the committee** and what they look like. Take special note of the chair and vice chair, who I'll discuss later.
+
+Fifth, if you're preparing objective testimony, research the **facts behind your case**. You probably already know why you support your side of the bill, but an objective approach requires reliably-sourced analysis and data. If you're attending a high-profile hearing, try to dig up unique arguments that you don't think anyone will say&mdash;after hours of hearing the same arguments over and over again, everyone will appreciate a change of pace.
+
 Last-minute checklist
 -
 
