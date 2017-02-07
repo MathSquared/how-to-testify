@@ -115,7 +115,9 @@ Organize your testimony in three parts:
 2. The **body** is where you make your points or tell your story.
 3. The **conclusion** is a call to action, which summarizes your testimony and restates your position.
 
-Finally, in large hearings, be flexible. Someone will say one of your arguments, or make an argument of their own that you just have to refute. Don't be caught up in a plan for which arguments you present or how you frame your story. I had three specific plans written on paper for which arguments I would select, but by the time I got to speak I had scrapped them all and formed a new one in my head.
+In large hearings, be flexible. Someone will say one of your arguments, or make an argument of their own that you just have to refute. Don't be caught up in a plan for which arguments you present or how you frame your story. I had three specific plans written on paper for which arguments I would select, but by the time I got to speak I had scrapped them all and formed a new one in my head.
+
+Finally, be sure to **practice** your testimony, multiple times, with a timer running. This does two things: it helps calm your nerves, and it makes sure you don't go overtime.
 
 My oral testimony on SB 4 is at around 4:38:30 in [this video](http://tlcsenate.granicus.com/MediaPlayer.php?clip_id=11651). As you can tell, this was a long hearing.
 
