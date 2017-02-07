@@ -141,5 +141,11 @@ If you don't have an account with Capitol Witness Registration, creating one now
 The day of the hearing
 -
 
+### Getting to the Capitol
+
+### Getting to the hearing
+
+### Registration
+
 During the hearing
 -
