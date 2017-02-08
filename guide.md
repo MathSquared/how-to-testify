@@ -181,7 +181,7 @@ The first thing you should do when you arrive is register. You can do this at th
 
 If you've preregistered your contact information, you'll be given an option to enter your credentials during the registration process. You'll be asked to state your position on the bill, select the format of your testimony, and swear to tell the truth.
 
-Once you register, you can walk into the hearing room.
+Once you register, you can walk into the hearing room. Also, if you're testifying orally, now's a good time to **use the restroom and grab a drink of water**; once the hearing starts, you won't want to leave until you're called to testify.
 
 During the hearing
 -
