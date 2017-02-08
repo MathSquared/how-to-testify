@@ -143,11 +143,42 @@ If you don't have an account with Capitol Witness Registration, creating one now
 The day of the hearing
 -
 
+It's game time! Now's your time to shine at the Capitol.
+
 ### Getting to the Capitol
+
+The Capitol opens at 7:00a on weekdays. For hearings that are early and large, you'll want to arrive around an hour before the hearing starts, but after 7:00a. For less controversial hearings, you can show up a bit closer to the hearing start time.
+
+The Capitol is located in the northern downtown area, occupying about sixteen blocks bounded by 11th St, 15th St, Colorado St, and San Jacinto Blvd.
+
+- Walking from the UT campus: walk south four blocks from MLK. The most centrally-aligned street to the Capitol is Congress Ave, located immediately south of the Blanton, which is itself south of Speedway. There's currently construction at the south end of Speedway, though, so you'll have to go around. I recommending walking south on University (the street in front of the Littlefield Fountain), turning left on MLK and then right on Congress.
+- Driving from IH-35 southbound: take exit 234C, then turn right on 12th St. Visitor parking is on your right after Trinity St.
+- Driving from IH-35 northbound: take exit 235A. Make a U-turn, then turn right on 12th St. Visitor parking is on your right after Trinity St.
+- Public transit from West Campus: walk to Guadalupe and take the 801 or 803 southbound to Capitol Station. Do not rely on the 642 West Campus bus; it doesn't start early enough for early hearings.
+- Public transit from North Campus: take the 801 or 803 southbound to Capitol Station, or the 7 southbound to 12th & San Jacinto.
+- Public transit from Riverside: take the 100 inbound to 12th & Trinity. Get on the bus on the north side of Riverside Dr, at its intersections with Montopolis Dr, Crossing Pl, or Town Creek Dr. Do not rely on the campus shuttles; they don't start early enough for early hearings.
+
+If you're anywhere near the Capitol, the large dome shape is hard to miss. Walk towards it. The entrances are on the broad sides of the building (the north and south).
+
+All visitors to the Capitol are screened by Texas State Troopers. Troopers will X-ray your belongings, and you will pass through a metal detector. You do not need an ID. CHL holders get expedited screening.
 
 ### Getting to the hearing
 
+Most hearings are in hearing rooms in the Capitol. View the [floor plan](http://www.tspb.texas.gov/plan/maps/doc/capitol_building_maps/capitol_building_guide.pdf). You enter on the first floor.
+
+For rooms in the Capitol proper, the first digit is the floor (G, 1, 2, 3, or 4), the second is the wing (N, S, E, or W), and later digits denote the room. Elevators are just behind the security checkpoints at both main entrances; there are also restrooms near the North Wing elevators. There are large staircases immediately east and west of the Capitol rotunda that lead directly to the second floor.
+
+Rooms in the Extension, an underground area to the north, have room numbers starting with E1 or E2; E1 is above E2. You can take the North Wing elevators directly to the Extension floors, or take the stairs on the north side of the ground floor (which can be accessed from the north elevators, or stairwells immediately east and west of the Capitol rotunda).
+
+Major hearings are in the House or Senate Chamber on the second floor. The House is to the west, the Senate to the east. There is little seating in the chamber; if it fills up, you may need to watch from the third floor gallery or an overflow room. You'll be called a few minutes before you are scheduled to testify so that you can walk to the chamber.
+
 ### Registration
+
+The first thing you should do when you arrive is register. You can do this at the kiosks outside the hearing room; note that lines are long and chaotic for major hearings. You can also use your mobile device, though the site tends to be glitchy; the URL is [hwrs.house.state.tx.us](http://hwrs.house.state.tx.us) for the House and [swrs.senate.state.tx.us](http://swrs.senate.state.tx.us) for the Senate. Note that this only works on the Public-Capitol Wi-Fi network.
+
+If you've preregistered your contact information, you'll be given an option to enter your credentials during the registration process. You'll be asked to state your position on the bill, select the format of your testimony, and swear to tell the truth.
+
+Once you register, you can walk into the hearing room.
 
 During the hearing
 -
