@@ -151,7 +151,7 @@ The Capitol opens at 7:00a on weekdays. For hearings that are early and large, y
 
 The Capitol is located in the northern downtown area, occupying about sixteen blocks bounded by 11th St, 15th St, Colorado St, and San Jacinto Blvd.
 
-- Walking from the UT campus: walk south four blocks from MLK. The most centrally-aligned street to the Capitol is Congress Ave, located immediately south of the Blanton, which is itself south of Speedway. There's currently construction at the south end of Speedway, though, so you'll have to go around. I recommending walking south on University (the street in front of the Littlefield Fountain), turning left on MLK and then right on Congress.
+- Walking from the UT campus: walk south four blocks from MLK. The most centrally-aligned street to the Capitol is Congress Ave, located immediately south of the Blanton, which is itself south of Speedway. There's currently construction at the south end of Speedway, though, so you'll have to go around. I recommending walking south on University (the street that intersects with 21st in front of the Littlefield Fountain), turning left on MLK and then right on Congress.
 - Driving from IH-35 southbound: take exit 234C, then turn right on 12th St. Visitor parking is on your right after Trinity St.
 - Driving from IH-35 northbound: take exit 235A. Make a U-turn, then turn right on 12th St. Visitor parking is on your right after Trinity St.
 - Public transit from West Campus: walk to Guadalupe and take the 801 or 803 southbound to Capitol Station. Do not rely on the 642 West Campus bus; it doesn't start early enough for early hearings.
