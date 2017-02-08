@@ -106,6 +106,8 @@ I've uploaded my SB 4 written testimony as `sample-testimony.pdf` in this reposi
 
 Oral testimony is incredibly nerve-wracking. You're seated at a small table, facing some of the most powerful people in the state, given three minutes or less to make your point. I've been speaking for over five years, and I was still shaking the first time I testified. Nonetheless, if you channel that energy, you can immensely strengthen your case with oral testimony.
 
+There are two phases to oral testimony: preparing it beforehand and actually delivering it. I'll discuss preparation here and save the delivery part for later in this guide.
+
 A common practice is to simply read words from a sheet. This is a valid approach, especially if you're an inexperienced speaker. But the best testimony is **extemporaneous**; with only a few short notes in front of you, you just talk&mdash;exactly as if you were having a one-sided conversation with the committee. Testimony read from a sheet often ends up monotonous, boring, and stilted; extemporaneous testimony appears confident, authentic, and trustworthy. If you do read from a sheet, at least read in a conversational tone and avoid any big words.
 
 Objective oral testimony should simply **summarize** your position. A detailed exposition is what your written testimony is for. Give the legislators enough information to know what your views are, but defer most of the specifics to the paper. Also, you'll need to **select your arguments**; you'll only be able to present two at most, so pick the two that (a) are most powerful and (b) haven't already been said in the hearing, or need additional support based on the arguments that others have made.
