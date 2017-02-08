@@ -152,8 +152,11 @@ The Capitol opens at 7:00a on weekdays. For hearings that are early and large, y
 The Capitol is located in the northern downtown area, occupying about sixteen blocks bounded by 11th St, 15th St, Colorado St, and San Jacinto Blvd.
 
 - Walking from the UT campus: walk south four blocks from MLK. The most centrally-aligned street to the Capitol is Congress Ave, located immediately south of the Blanton, which is itself south of Speedway. There's currently construction at the south end of Speedway, though, so you'll have to go around. I recommending walking south on University (the street that intersects with 21st in front of the Littlefield Fountain), turning left on MLK and then right on Congress.
-- Driving from IH-35 southbound: take exit 234C, then turn right on 12th St. Visitor parking is on your right after Trinity St.
-- Driving from IH-35 northbound: take exit 235A. Make a U-turn, then turn right on 12th St. Visitor parking is on your right after Trinity St.
+- Walking from downtown: walk north or south until you reach 11th or 15th St, then walk east or west until you get to the Capitol. Alternatively, walk east or west to Colorado St, Congress Ave, Brazos St, or San Jacinto Blvd, then north or south to the Capitol. (Downtown, streets are "W \_th St" west of Congress and "E \_th St" east of Congress.)
+- Driving from IH-35, from the north: take exit 234C, then turn right on 12th St. Visitor parking is on your right after Trinity St.
+- Driving from IH-35, from the south (best for Riverside): take exit 235A. Make a U-turn, then turn right on 12th St. Visitor parking is on your right after Trinity St.
+- Driving from MoPac: exit Enfield and turn east onto Enfield Rd, which later becomes 15th St. Make a right on San Jacinto Blvd, after you see the Capitol on your right. Visitor parking is on your left after 13th St.
+- Driving from Lamar or Guadalupe, from the north (best for much of West Campus and North Campus): turn left onto 15th St. Make a right on San Jacinto Blvd, after you see the Capitol on your right. Visitor parking is on your left after 13th St.
 - Public transit from West Campus: walk to Guadalupe and take the 801 or 803 southbound to Capitol Station. Do not rely on the 642 West Campus bus; it doesn't start early enough for early hearings.
 - Public transit from North Campus: take the 801 or 803 southbound to Capitol Station, or the 7 southbound to 12th & San Jacinto.
 - Public transit from Riverside: take the 100 inbound to 12th & Trinity. Get on the bus on the north side of Riverside Dr, at its intersections with Montopolis Dr, Crossing Pl, or Town Creek Dr. Do not rely on the campus shuttles; they don't start early enough for early hearings.
