@@ -157,9 +157,9 @@ The Capitol is located in the northern downtown area, occupying about sixteen bl
 - Driving from IH-35, from the south (best for Riverside): take exit 235A. Make a U-turn, then turn right on 12th St. Visitor parking is on your right after Trinity St.
 - Driving from MoPac: exit Enfield and turn east onto Enfield Rd, which later becomes 15th St. Make a right on San Jacinto Blvd, after you see the Capitol on your right. Visitor parking is on your left after 13th St.
 - Driving from Lamar or Guadalupe, from the north (best for much of West Campus and North Campus): turn left onto 15th St. Make a right on San Jacinto Blvd, after you see the Capitol on your right. Visitor parking is on your left after 13th St.
-- Public transit from West Campus: walk to Guadalupe and take the 801 or 803 southbound to Capitol Station. Do not rely on the 642 West Campus bus; it doesn't start early enough for early hearings.
-- Public transit from North Campus: take the 801, 803, or 5 southbound to Capitol Station, or the 7 southbound to 12th & San Jacinto.
-- Public transit from Riverside: take the 100 inbound to 12th & Trinity. Get on the bus on the north side of Riverside Dr, at its intersections with Montopolis Dr, Crossing Pl, or Town Creek Dr. Do not rely on the campus shuttles; they don't start early enough for early hearings.
+- Public transit from West Campus: walk to Guadalupe and take the 801 or 803 southbound to Capitol Station. Frequency: 15min. Do not rely on the 642 West Campus bus; it doesn't start early enough for early hearings.
+- Public transit from North Campus: take the 801, 803, or 5 southbound to Capitol Station, or the 7 southbound to 12th & San Jacinto. Frequency: 15min for 801 and 803; 30min for 5.
+- Public transit from Riverside: take the 100 inbound to 12th & Trinity. Get on the bus on the north side of Riverside Dr, at its intersections with Montopolis Dr, Crossing Pl, or Town Creek Dr. Frequency: 30min. Do not rely on the campus shuttles; they don't start early enough for early hearings.
 
 If you're anywhere near the Capitol, the large dome shape is hard to miss. Walk towards it. The entrances are on the broad sides of the building (the north and south).
 
