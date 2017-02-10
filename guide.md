@@ -187,3 +187,69 @@ Once you register, you can walk into the hearing room. Also, if you're testifyin
 
 During the hearing
 -
+
+Walk in. Grab a seat. You'll be in this room for a while&mdash;possibly hours at controversial hearings. Get comfortable.
+
+### People
+
+A committee hearing is buzzing with activity. You should know who everyone is.
+
+The **members** are the legislators who sit on the committee. They sit on the **dais** at the front of the room (at large hearings in the House or Senate Chamber, they may instead sit at a table). The members are led by the **chair**, who runs the meeting and enforces the rules. If the chair can't make it or has to step out temporarily, the **vice chair** takes over (but are still known as the "chair" whenever they're in charge). Other members of the House or Senate may also be present behind the dais; they may ask you questions but will not vote.
+
+The **staff** are employees of the legislature, the committees, or the state government who help keep everything running smoothly. The **clerk** is a staff member who sits next to the chair on the dais, and calls the roll during votes or to take attendance. You will hand your written testimony to an assistant clerk, who is usually seated in front of the dais.
+
+At major hearings, members of the **press** will float around and possibly block your view of the hearing.
+
+Then, of course, there are witnesses and observers. Some are **invited witnesses**, handpicked by the committee to give important information. They testify first and are not subject to time limits. Other people like you are **public witnesses**.
+
+### Behavior
+
+First, you should know what is expected of you as an audience member. Committee hearings are very formal affairs with strict rules, and many of those rules affect you.
+
+When you walk in, you may sit anywhere (except that the first couple of rows may be reserved). Additionally, if you're submitting written but not oral testimony, give it to the assistant clerk. (If you're submitting both kinds of testimony, you'll give your written testimony to the assistant clerk when you are called to testify orally.)
+
+You may take **photos**, but **may not record audio or video** unless you are a credentialed journalist.
+
+Non-disruptive **cell phone use** is fine, and may be useful if you want to check TLO, the media, or another resource during the hearing. However, make sure to **silence your phone**, including alarms.
+
+You can **leave and re-enter the hearing at any time**. But if you're testifying orally, beware: if your name is called when you're out of the room, you may be skipped.
+
+Committee hearings are steeped in parliamentary procedure. Any **interruptions** from the audience, including applause or laughter, are generally prohibited (though a few chuckles at a good line from a legislator are probably fine). The chair will tap the gavel to ask the audience to quiet down if needed, and has the authority to kick everyone out of the room if needed. Also, be aware that interruptions slow down the hearing, because the chair has to wait for the interruption to stop before proceeding.
+
+**Do not step into the area where the committee members sit**. Legislators and staff will do so. You are not a legislator or a staff member (and if you are, this entire guide probably doesn't apply to you). You will be arrested.
+
+### Flow of the hearing
+
+The chair will start the hearing by tapping the gavel and announcing, "The *committee name* Committee will come to order. The clerk will call the roll." The clerk will then briefly take attendance.
+
+At this point, the business of the committee will begin. They might have leftover items to consider; for instance, at the SB 4 hearing, the committee started by voting up several bills that were considered the previous day.
+
+Consideration of each bill proceeds as follows:
+1. **Opening statements**, at least one by the bill's author or sponsor, and possibly others. Any legislator present may question speakers during these statements.
+2. **Invited testimony** by witness hand-picked by the committee.
+3. **Public testimony**, which is when you'll be called.
+4. Possibly a **vote** on the bill.
+
+At the end, the chair will declare the hearing adjourned and tap the gavel.
+
+### Glossary
+
+Here are some terms you might hear in the hearing, from legislators or witnesses.
+
+- The committee **adjourns** at the end of the meeting.
+- The **AG** is the Texas Attorney General, whose office issues legal opinions and essentially serves as the state's law firm.
+- The **author** of a bill is the legislator who wrote it, and serves as the chief advocate for the bill. Other legislators may choose to become **coauthors** to express strong support for a bill. Bills can have an absurd amount of coauthors (there have been bills coauthored by literally every single Republican in the Texas Senate).
+- The chair will order staff and law enforcement to **clear the gallery** if the audience is too disruptive.
+- Instead of approving the original bill, the committee may approve a **committee substitute** instead, which is a changed version of the bill.
+- Committee members sit on the **dais**, a raised platform with placards.
+- **Discretionary spending** is any money the state chooses to spend, as opposed to any it is required to spend by law.
+- The **fiscal note** is a nonpartisan assessment of how much a bill will cost to the state.
+- **Invited testimony** is testimony by witnesses hand-picked by the committee.
+- The chair will often invite a **panel** of more than one witness up at a time. The witnesses on the panel will testify one by one. The term **panel** is also used in the media as a synonym for a committee.
+- **Public testimony** is testimony by members of the public, not hand-picked by the committee.
+- A **recess** is a short break in the middle of the hearing.
+- After considering a bill, the committee may vote to **report to the full house**. The different manners of reporting correspond to what the committee thinks of the bill. The committee may also not report on a bill, in which case the bill dies.
+- A **resource witness** is an invited witness, often from a government agency, who testifies on (not for or against) a bill. The purpose is to provide crucial information to the committee from government agencies affected by the bill.
+- Once a bill passes one chamber of the Legislature, it moves to the other chamber. In that second chamber, instead of an author, the bill has a **sponsor**.
+- Some committees have **subcommittees**. These are "committees within committees"; more specifically, they are subsets of the full committee that can consider a bill and report to the full committee.
+- A **witness** is anyone testifying in a hearing.
