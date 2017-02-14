@@ -254,3 +254,40 @@ Here are some terms you might hear in the hearing, from legislators or witnesses
 - Once a bill passes one chamber of the Legislature, it moves to the other chamber. In that second chamber, instead of an author, the bill has a **sponsor**.
 - Some committees have **subcommittees**. These are "committees within committees"; more specifically, they are subsets of the full committee that can consider a bill and report to the full committee.
 - A **witness** is anyone testifying in a hearing.
+
+### What to listen for
+
+Testimony, especially objective testimony, can be much more effective if you listen to and engage with what else is said in the hearing. This is completely optional, but coming off as if you know what's been discussed already makes you sound like a more informed witness, and can help deepen the lines of reasoning discussed in the hearing. Here are my tips on that.
+
+This engagement strategy requires that you **take notes**. Write down anything you agree with or wish to respond to. Also, if it was said by a legislator or high-profile witness, writing down their title and last name never hurts (so you can refer to them by name when you testify).
+
+Your notes should cover two things. First, listen to **what's being said** in the hearing. This is so that you don't repeat the same thing over and over again, but also so that you can additional support to an ally's argument. Second, take note of **arguments you can rebut**; you can pick a few of them to weave into your oral testimony.
+
+### When you are called
+
+At some point, the chair will call you by name to testify. At that point, walk up to the table and sit down. Don't speak until the chair tells you to start. (At large hearings, you might be called twice: once to walk to the hearing site if you're in an overflow room, and the next time to actually testify.) If you're not there when called, you might be skipped, so be careful (the chair might call your name again a few minutes later if they skip you the first time). Keep in mind that you might be seated in a panel with multiple witnesses, who you may or may not know. You'll speak one at a time.
+
+As I mentioned in the section on preparing oral testimony, organize your testimony into an introduction, body, and conclusion. The intro should take about ten to fifteen seconds, and the conclusion anywhere from fifteen to thirty. There will be a timer in front of you that you can use to pace yourself.
+
+You must start by stating your name, affilliation, and position on the bill. The most formal way to do so is as follows:
+
+> Mr. Chairman (or Madam Chair), members of the committee, thank you for hearing me today. My name is *your name*. I am here representing *organization name, or "myself"*, and I am speaking *for/against/on* the bill.
+
+Things usually aren't as formal in practice, though:
+
+> Chair(man), members, good morning. My name is *your name*. I'm here on behalf of *organization* to speak *for/against/on* the bill.
+
+There are some **behavioral norms** to follow:
+
+- Speak as if you're speaking to the chair. I generally address the chair as "Mr. Chairman" for men and "Madam Chair" for women; there are other acceptable forms, but these seem to be the most common. Make sure you consider the gender of who's actually in charge of the meeting when you get called; this could be the person listed as the committee chair or vice chair.
+- Don't directly address anyone other than the chair (or, during questions, the person who asked you the question). Refer to them in the third person ("Senator Smith says", not "Senator Smith, you said").
+
+Note that while most questioning (if any) will happen after you speak, **legislators can interrupt you** with questions (though this is rare). The clock does not stop if a legislator asks a question during your testimony. The clock also doesn't stop for applause or other audience interruptions, so I recommend you keep going if something like that happens so you can make best use of your time.
+
+Time limits are strictly enforced. If the timer goes off, ask the chair if you may finish your sentence or your thought. Going beyond that will just make the chair mad at you.
+
+After you testify, legislators may ask you questions. Answer them honestly and as well as you can. It's OK if you don't know the answer to something; you can offer to look it up after the hearing and contact their office with your results. If you do make such a commitment, follow through as soon as possible.
+
+### When you're done
+
+Congrats! You've testified before the Texas Legislature. You can stay to watch the rest of the hearing, grab food at the Capitol Grill, or just leave. In any event, know that you've added your voice to a worthy cause and had a real impact on Texas politics.
