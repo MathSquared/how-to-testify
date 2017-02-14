@@ -34,9 +34,10 @@ Once you've found the bill, you need to identify its committee. This should be l
 
 Once you've identified the committee and the hearing date, you need to check the **hearing notice**. This contains the location and time of the hearing, as well as any limitations on your testimony. On TLO, under *Committees > Upcoming Meetings* (desktop) or *Committee Meetings* (mobile), you can see a list of future meetings by date and committee. Once you've found the hearing you're looking for, clicking an icon at the right (desktop) or the committee name (mobile) will bring up the notice.
 
-There are four **things to look for on the notice**:
+There are five **things to look for on the notice**:
 
 - The **time and room** of the hearing. All hearings are at the Texas Capitol, and usually start in the morning, but may be in different hearing rooms or start at different times.
+- What **bills will be considered**. Some hearings will discuss multiple bills at once. Make sure you're testifying on the right one. Also note that hearings generally consider groups of related bills, so some of the others at your hearing of choice might interest you.
 - Whether the hearing accepts **public testimony**. Invited testimony isn't what you're looking for. If the notice doesn't mention public testimony, **you can't testify**!
 - The **time limit** on oral testimony. This is usually three minutes, but may be shorter for high-profile hearings.
 - The **number of copies** to bring for written testimony.
