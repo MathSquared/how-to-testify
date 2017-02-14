@@ -226,6 +226,7 @@ The chair will start the hearing by tapping the gavel and announcing, "The *comm
 At this point, the business of the committee will begin. They might have leftover items to consider; for instance, at the SB 4 hearing, the committee started by voting up several bills that were considered the previous day.
 
 Consideration of each bill proceeds as follows:
+
 1. **Opening statements**, at least one by the bill's author or sponsor, and possibly others. Any legislator present may question speakers during these statements.
 2. **Invited testimony** by witnesses hand-picked by the committee.
 3. **Public testimony**, which is when you'll be called.
