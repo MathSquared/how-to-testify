@@ -132,7 +132,7 @@ If you don't have an account with Capitol Witness Registration, creating one now
 
 ### What to bring
 
-- Your **written testimony**. Make sure you have the **number of copies** specified in the hearing notice. Double-check the notice to make sure it hasn't changed.You can also bring **extra copies** in case one gets damaged, or to give to the press and anyone you meet. Ten extra is more than enough.
+- Your **written testimony**. Make sure you have the **number of copies** specified in the hearing notice. Double-check the notice to make sure it hasn't changed. You can also bring **extra copies** in case one gets damaged, or to give to the press and anyone you meet. Ten extra is more than enough.
 - Any **written reference materials** you may want for your oral testimony.
 - **Pen and paper** to take notes during the hearing (so you can adjust your own arguments in response to what other people say), or for networking purposes.
 - If you'd like, **business cards** to give to allies you meet at the hearing, for networking purposes.
@@ -287,7 +287,7 @@ Note that while most questioning (if any) will happen after you speak, **legisla
 
 **Time limits** are strictly enforced. If the timer goes off, ask the chair if you may finish your sentence or your thought. Going beyond that will just make the chair mad at you and take time away from others who also want to testify.
 
-After you testify, legislators may ask you **questions**. Answer them honestly and as well as you can. It's OK if you don't know the answer to something. If you'd like, you can offer to look it up after the hearing and contact their office with your results. If you do make such a commitment, follow through as soon as possible.
+After you testify, legislators may ask you **questions**. Answer them honestly and as well as you can. It's OK if you don't know the answer to something. If a legislator asks you a question you don't know, you can optionally offer to look it up after the hearing and contact their office with your results. If you do make such a commitment, follow through as soon as possible.
 
 ### When you're done
 
