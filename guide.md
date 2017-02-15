@@ -103,7 +103,7 @@ Written testimony should be prepared as a formal paper. Format your document wel
 
 Make sure you print the **right number of copies**, which will be listed in the hearing notice. You'll probably want to go to a print shop. Save paper by printing double-sided, and staple each copy of your testimony.
 
-I've uploaded my SB 4 written testimony as `sample-testimony.pdf` in this repository.
+I've uploaded my SB 4 written testimony as `sample-testimony.pdf` in this repository. If you're viewing this on the Web, you can view the [Web-hosted version](https://github.com/MathSquared/how-to-testify/blob/master/sample-testimony.pdf).
 
 ### Oral testimony
 
