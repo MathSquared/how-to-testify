@@ -219,7 +219,7 @@ When you walk in, you may sit anywhere (except that the first couple of rows may
 
 You may take **photos**, but **may not record audio or video** unless you are a credentialed journalist.
 
-Non-disruptive **cell phone use** is fine, and may be useful if you want to check TLO, the media, or another resource during the hearing. However, make sure to **silence your phone**, including alarms.
+Non-disruptive **cell phone use** is fine (unless there's a sign outside the hearing room prohibiting it), and may be useful if you want to check TLO, the media, or another resource during the hearing. However, make sure to **silence your phone**, including alarms.
 
 You can **leave and re-enter the hearing at any time**. But if you're testifying orally, beware: if your name is called when you're out of the room, you may be skipped.
 
