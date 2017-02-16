@@ -235,7 +235,7 @@ At this point, the business of the committee will begin. They might have leftove
 
 Consideration of each bill proceeds as follows:
 
-1. **Opening statements**, at least one by the bill's author or sponsor, and possibly others. Any legislator present may question speakers during these statements. The author may also discuss a **committee substitute**, which is a modified version of the bill that the committee creates. This usually isn't posted on TLO, so listen closely to this.
+1. **Opening statements**, at least one by the bill's author or sponsor, and possibly others. Any legislator present may question speakers during these statements. The author may also discuss a **committee substitute**, which is a modified version of the bill that the committee creates. The committee substitute usually isn't posted on TLO until after the hearing, so listen closely to this part of the opening statement.
 2. **Invited testimony** by witnesses hand-picked by the committee.
 3. **Public testimony**, which is when you'll be called.
 4. Possibly a **vote** on the bill (or the committee may leave the bill pending and vote at a later hearing).
