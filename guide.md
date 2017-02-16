@@ -273,6 +273,8 @@ This engagement strategy requires that you **take notes**. Write down anything y
 
 Your notes should cover two things. First, listen to **what's being said** in the hearing. This is so that you don't repeat the same thing over and over again, but also so that you can additional support to an ally's argument. Second, take note of **arguments you can rebut**; you can pick a few of them to weave into your oral testimony.
 
+When you go up to testify, you can incorporate your notes into your argumentation. It's incredibly persuasive to rebut an argument someone else made in your own testimony. Just briefly mention what was said and who said it, then give a rebuttal. You can also cite things that your allies have said, such as important points that a member on your side made when they questioned the author at the start of the hearing.
+
 ### When you are called
 
 At some point, the chair will call you by name to testify. At that point, walk up to the table and sit down. Don't speak until the chair tells you to start. (At large hearings, you might be called twice: once to walk to the hearing site if you're in an overflow room, and the next time to actually testify.) If you're not there when called, you might be skipped, so be careful (the chair might call your name again a few minutes later if they skip you the first time). Keep in mind that you might be seated in a panel with multiple witnesses, who you may or may not know. You'll speak one at a time.
