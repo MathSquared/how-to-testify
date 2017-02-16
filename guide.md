@@ -7,7 +7,7 @@ There's been a lot of attention devoted lately to national politics. But there's
 
 You can affect state legislative proceedings in many of the same ways you can affect national legislation, such as through calling or writing your legislator, or just voting in elections. But this guide will cover another important way to act: by testifying.
 
-First, a little bit about me. I'm a student at the University of Texas at Austin, majoring in Computer Science. On Thursday, February 2, 2017, I testified against [SB 4](http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&Bill=SB4), a bill to defund sanctuary cities. I also have years of competitive speaking experience. I've drawn this guide from the knowledge I gained by testifying myself, as well as information I gathered from the Internet and from my personal network as I prepared to testify.
+First, a little bit about me. I'm a student at the University of Texas at Austin, majoring in Computer Science. My first time testifying was on Thursday, February 2, 2017, when I testified against [SB 4](http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&Bill=SB4), a bill to defund sanctuary cities. I also have years of competitive speaking experience. I've drawn this guide from the knowledge I've gained by testifying myself, as well as information I gathered from the Internet and from my personal network as I prepared to testify.
 
 Almost every bill that passes through the Texas Legislature goes through a **committee**. The committees are small groups of legislators that specialize in a particular issue; for instance, the aforementioned SB 4 went before the Senate State Affairs Committee. Committees hold **hearings** to consider a bill. Most hearings will invite **public testimony**, where anyone can speak directly to the committee in support of or opposition to the bill. SB 4 was particularly controversial, drawing hundreds of people to the Capitol to testify. But most hearings only have a few witnesses, usually from major lobbying groups or think tanks. I'm hoping to change that, because testimony is a great way to alter the course of the Texas Legislature.
 
@@ -136,7 +136,7 @@ If you don't have an account with Capitol Witness Registration, creating one now
 - Any **written reference materials** you may want for your oral testimony.
 - **Pen and paper** to take notes during the hearing (so you can adjust your own arguments in response to what other people say), or for networking purposes.
 - If you'd like, **business cards** to give to allies you meet at the hearing, for networking purposes.
-- Appropriate **attire**. The minimum you should wear is a nice top (button-up for men) and dark, non-distressed, non-ripped jeans. Many witnesses wear some form of business casual. Some people wear a suit (with a business-appropriate tie for men). I personally wear a suit and tie whenever I testify orally, and recommend that you do the same if possible, especially at smaller hearings; however, suits are not required, as long as your attire shows respect for the committee.
+- Appropriate **attire**. The minimum you should wear is a nice top (button-up for men) and dark, non-distressed, non-ripped jeans. Many witnesses wear some form of business casual. Some people wear a suit (with a business-appropriate tie for men). Some who are part of a large group wear a T-shirt related to their causes (though I don't recommend wearing only a T-shirt to testify). I personally wear a suit and tie whenever I testify orally, and recommend that you do the same if possible, especially at smaller hearings; however, suits are not required, as long as your attire shows respect for the committee.
 
 ### What not to bring
 
@@ -164,7 +164,7 @@ The Capitol is located in the northern downtown area, occupying about sixteen bl
 - Public transit from North Campus: take the 801, 803, or 5 southbound to Capitol Station, or the 7 southbound to 12th & San Jacinto. Frequency: 15min for 801, 803, and 7; 30min for 5.
 - Public transit from Riverside: take the 100 inbound to 12th & Trinity. Get on the bus on the north side of Riverside Dr, at its intersections with Montopolis Dr, Crossing Pl, or Town Creek Dr. Frequency: 30min. Do not rely on the Riverside campus shuttles; they don't start early enough for early hearings.
 
-If you're anywhere near the Capitol, the large dome shape is hard to miss. Walk towards it. The entrances are on the broad sides of the building (the north and south).
+If you're anywhere near the Capitol, the large dome shape is hard to miss. Walk towards it. The entrances are on each of the four sides of the building.
 
 Security officers with the Texas Department of Public Safety will X-ray your belongings, and you will pass through a metal detector unless you hold a CHL. You do not need an ID.
 
@@ -172,17 +172,25 @@ Security officers with the Texas Department of Public Safety will X-ray your bel
 
 Most hearings are in hearing rooms in the Capitol. View the [floor plan](http://www.tspb.texas.gov/plan/maps/doc/capitol_building_maps/capitol_building_guide.pdf). You enter on the first floor.
 
-For rooms in the Capitol proper, the first digit is the floor (G, 1, 2, 3, or 4), the second is the wing (N, S, E, or W), and later digits denote the room. Elevators are just behind the security checkpoints at both main entrances; there are also restrooms near the North Wing elevators. There are large staircases immediately east and west of the Capitol rotunda that lead directly to the second floor.
+For rooms in the Capitol proper, the first digit is the floor (G, 1, 2, 3, or 4), the second is the wing (N, S, E, or W), and later digits denote the room. Elevators are just behind the security checkpoints at the North and South Entrances; there are also restrooms near the North Wing elevators. There are large staircases immediately east and west of the Capitol rotunda that lead directly to the second floor.
 
 Rooms in the Extension, an underground area to the north, have room numbers starting with E1 or E2; E1 is above E2. You can take the North Wing elevators directly to the Extension floors, or take the stairs on the north side of the ground floor (which can be accessed from the north elevators, or stairwells immediately east and west of the Capitol rotunda).
+
+Some hearings are in other buildings in the Capitol complex, such as SHB or JHR. These are usually accessible via tunnels from E1; refer to this [above-ground map](http://www.austintexas.gov/edims/document.cfm?id=171490) of the entire Capitol complex, and the floor plan linked earlier.
 
 Major hearings are in the House or Senate Chamber on the second floor. The House is to the west, the Senate to the east. There is little seating in the chamber; if it fills up, you may need to watch from the third floor gallery or an overflow room. You'll be called a few minutes before you are scheduled to testify so that you can walk to the chamber.
 
 ### Registration
 
-The first thing you should do when you arrive is register. You can do this at the kiosks outside the hearing room; note that lines are long and chaotic for major hearings. You can also use your mobile device, though the site tends to be glitchy; the URL is [hwrs.house.state.tx.us](http://hwrs.house.state.tx.us) for the House and [swrs.senate.state.tx.us](http://swrs.senate.state.tx.us) for the Senate. Be aware that this only works on the Public-Capitol Wi-Fi network, so you have to be at the Capitol in order to register.
+The first thing you should do when you arrive is register. You can do this at the kiosks outside the hearing room; note that lines are long and chaotic for major hearings. If those kiosks are crowded, there are also some distributed throughout the Extension levels. Here are maps of [House kiosks on E1](https://www.mytxlegis.legis.state.tx.us/hwrspublic/images/extension1Map.jpg) and [House kiosks on E2](https://www.mytxlegis.legis.state.tx.us/hwrspublic/images/extension2Map.jpg). Senate kiosks are located on E1, on the opposite side from where the House kiosks are.
+
+You can also use your mobile device, though the site tends to be glitchy; the URL is [hwrs.house.state.tx.us](http://hwrs.house.state.tx.us) for the House and [swrs.senate.state.tx.us](http://swrs.senate.state.tx.us) for the Senate. Be aware that this only works on the Public-Capitol Wi-Fi network, so you have to be at the Capitol in order to register.
+
+You'll be called during the hearing in the order you registered. That might mean you have to wait for hours to testify. Don't worry, though; registration stays open until the hearing ends or until some time in the evening, whichever is earliest, and **everyone who registers to testify gets to testify**.
 
 During registration, you'll be asked to state your position on the bill, select the format of your testimony, enter your contact information, and swear to tell the truth. If you've preregistered your contact information, you'll be given an option to enter your credentials during the registration process.
+
+At some hearings, the kiosks will be broken, and you'll have to fill out a card instead. In this case, you must fill out one card per bill on which you wish to testify.
 
 Once you register, you can walk into the hearing room. Also, if you're testifying orally, now's a good time to **use the restroom and grab a drink of water**; once the hearing starts, you won't want to leave until you're called to testify.
 
@@ -221,16 +229,16 @@ Committee hearings are steeped in parliamentary procedure. Any **interruptions**
 
 ### Flow of the hearing
 
-The chair will start the hearing by tapping the gavel and announcing, "The *committee name* Committee will come to order. The clerk will call the roll." The clerk will then briefly take attendance.
+The chair will start the hearing by tapping the gavel three times and announcing, "The *committee name* Committee will come to order. The clerk will call the roll." The clerk will then quickly take attendance.
 
-At this point, the business of the committee will begin. They might have leftover items to consider; for instance, at the SB 4 hearing, the committee started by voting up several bills that were considered the previous day.
+At this point, the business of the committee will begin. They might have leftover items to consider from previous hearings; for instance, at the SB 4 hearing, the committee started by voting up several bills that were considered the previous day.
 
 Consideration of each bill proceeds as follows:
 
-1. **Opening statements**, at least one by the bill's author or sponsor, and possibly others. Any legislator present may question speakers during these statements.
+1. **Opening statements**, at least one by the bill's author or sponsor, and possibly others. Any legislator present may question speakers during these statements. The author may also discuss a **committee substitute**, which is a modified version of the bill that the committee creates. This usually isn't posted on TLO, so listen closely to this.
 2. **Invited testimony** by witnesses hand-picked by the committee.
 3. **Public testimony**, which is when you'll be called.
-4. Possibly a **vote** on the bill.
+4. Possibly a **vote** on the bill (or the committee may leave the bill pending and vote at a later hearing).
 
 At the end, the chair will declare the hearing adjourned and tap the gavel.
 
@@ -291,4 +299,4 @@ After you testify, legislators may ask you **questions**. Answer them honestly a
 
 ### When you're done
 
-Congrats! You've testified before the Texas Legislature. You can stay to watch the rest of the hearing, grab food at the Capitol Grill, or just leave. In any event, know that you've added your voice to a worthy cause and had a real impact on Texas politics.
+Congrats! You've testified before the Texas Legislature. You can stay to watch the rest of the hearing, grab food at the Capitol Grill, or just leave. Or, you can **visit your representatives' offices**, which I highly recommend; there is a directory near the Capitol North Wing elevators on floor E1. In any event, know that you've added your voice to a worthy cause and had a real impact on Texas politics.
