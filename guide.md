@@ -136,7 +136,7 @@ If you don't have an account with Capitol Witness Registration, creating one now
 - Any **written reference materials** you may want for your oral testimony.
 - **Pen and paper** to take notes during the hearing (so you can adjust your own arguments in response to what other people say), or for networking purposes.
 - If you'd like, **business cards** to give to allies you meet at the hearing, for networking purposes.
-- Appropriate **attire**. The minimum you should wear is a nice top (button-up for men) and dark, non-distressed, non-ripped jeans. Many witnesses wear some form of business casual. Some people wear a suit (with a business-appropriate tie for men). Some who are part of a large group wear a T-shirt related to their causes (though I don't recommend wearing only a T-shirt to testify). I personally wear a suit and tie whenever I testify orally, and recommend that you do the same if possible, especially at smaller hearings; however, suits are not required, as long as your attire shows respect for the committee.
+- Appropriate **attire**. The minimum you should wear is a nice top (button-up for men) and dark, non-distressed, non-ripped jeans. Many witnesses wear some form of business casual. Some people wear a suit (with a business-appropriate tie for men). Some who are attending as part of a large group wear a T-shirt related to their cause (though I don't recommend wearing a T-shirt to testify). I personally wear a suit and tie whenever I testify orally, and recommend that you do the same if possible, especially at smaller hearings; however, suits are not required, as long as your attire shows respect for the committee.
 
 ### What not to bring
 
