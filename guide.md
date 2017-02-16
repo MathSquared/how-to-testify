@@ -281,7 +281,7 @@ At some point, the chair will call you by name to testify. At that point, walk u
 
 As I mentioned in the section on preparing oral testimony, organize your testimony into an introduction, body, and conclusion. The intro should take about ten to fifteen seconds, and the conclusion anywhere from fifteen to thirty. There will be a timer in front of you that you can use to pace yourself.
 
-You must start by stating three things: your name, affilliation, and position on the bill. The most formal way to do so is as follows:
+You must start by stating three things: your name, affiliation, and position on the bill. The most formal way to do so is as follows:
 
 > Mr. Chairman (or Madam Chair), members of the committee, thank you for hearing me today. My name is *your name*. I am here representing *organization name, or "myself"*, and I am speaking *for/against/on* the bill.
 
