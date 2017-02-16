@@ -172,7 +172,7 @@ Security officers with the Texas Department of Public Safety will X-ray your bel
 
 Most hearings are in hearing rooms in the Capitol. View the [floor plan](http://www.tspb.texas.gov/plan/maps/doc/capitol_building_maps/capitol_building_guide.pdf). You enter on the first floor.
 
-For rooms in the Capitol proper, the first digit is the floor (G, 1, 2, 3, or 4), the second is the wing (N, S, E, or W), and later digits denote the room. Elevators are just behind the security checkpoints at the North and South Entrances; there are also restrooms near the North Wing elevators. There are large staircases immediately east and west of the Capitol rotunda that lead directly to the second floor.
+For rooms in the Capitol proper, the first digit is the floor (G, 1, 2, 3, or 4), the second is the wing (N, S, E, or W), and later digits denote the room. Elevators are just behind the security checkpoints at the North and South Entrances; there are also restrooms near the North Wing elevators. There are large staircases immediately east and west of the Capitol rotunda that access floors 1&ndash;4, and behind the staircases on floor 1 is access to a staircase to floor G.
 
 Rooms in the Extension, an underground area to the north, have room numbers starting with E1 or E2; E1 is above E2. You can take the North Wing elevators directly to the Extension floors, or take the stairs on the north side of the ground floor (which can be accessed from the north elevators, or stairwells immediately east and west of the Capitol rotunda).
 
